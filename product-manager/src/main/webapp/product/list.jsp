@@ -16,7 +16,6 @@
     <input type="text" name="action" value="search" style="display: none">
     <input type="text" name="query" placeholder="Search">
     <button type="submit" name="searchBtn" value="Search">Search</button>
-
 </form>
 
 <table border="1">
